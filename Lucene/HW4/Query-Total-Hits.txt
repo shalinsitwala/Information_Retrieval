@@ -1,0 +1,4 @@
+Query: "parallel algorithms" Total Hits: 272
+Query: "parallel processor in information retrieval" Total Hits: 1529
+Query: "portable operating systems" Total Hits: 440
+Query: "code optimization for space efficiency" Total Hits: 1579
