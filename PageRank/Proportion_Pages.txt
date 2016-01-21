@@ -1,0 +1,25 @@
+The proportion of pages with no in-links (sources);
+= Pages with no in-links / Total Pages
+= 14350 / 183811
+= 0.07806932120493332825565390537019
+OR
+7.80 %
+
+===========================================================
+===========================================================
+
+The proportion of pages with no out-links (sinks)
+= Sinks / Total Pages
+= 66175 / 183811
+= 0.36001653872727965138103813155905
+OR
+36 %
+
+===========================================================
+===========================================================
+
+The proportion of pages whose PageRank is less than their initial, uniform values.
+= 144318 / 183811
+= 0.78514343537655526600693103241917
+OR
+78.51 %

@@ -1,0 +1,9 @@
+The Page with Document ID (WT21-B37-76) has the highest PageRank and the most number of in-links. The page is the home page of "The Economist" - News site, and hence we can imagine a lot of other pages pointing to it resulting in the high number of in-links. One chief measure for the PageRank is the number of in-links of that page, hence the highest PageRank as well.
+In-links is not the only factor, rather it is one of the many factors affecting the PageRank of a page. A single link from a popular page to any other page can affect it's PageRank as the probability of a random surfer to visit that page is higher.
+
+The Page with Document ID (WT21-B37-75) is the "Copyright" page for "The Economist" having a high PageRank as well. We can assume here that most of the pages of The Economist might be having a link in the header/footer to the Copyright page of the site, resulting to the high number of in-links, which in-turn justifies the high PageRank.
+
+The quality of documents which are returned in response to a user's query is subjective, depends on what the user is looking for.
+But here, for a layman, we can say that, DocID (WT21-B37-76) is the homepage of a news site and has the highest PageRank, so the probability of users' getting this page is high and which leads us to the point that it would be very likely that the user got what he/she was finding (found it interesting). Similarly, DocID (WT23-B39-340) is a page of a Financial company having official reports, and DocID (WT06-B35-161) is a homepage of "Canadian Centre on Substance Abuse",  which can be interesting to some set of users who are looking anything related to it.
+
+While documents with IDs WT21-B37-75 & WT23-B37-134 are copyright pages of sites "The Economist" and "Australian Govt's Public Health" so they have a high PageRank as explained above but cannot be interesting for many users (this is subjective to the user).
