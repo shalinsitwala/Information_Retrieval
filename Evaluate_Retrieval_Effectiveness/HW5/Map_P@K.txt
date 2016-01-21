@@ -1,0 +1,2 @@
+P@20 is: [0.15, 0.25, 0.45]
+Mean Average Precision is: 0.4146752713701866
